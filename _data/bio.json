@@ -69,8 +69,30 @@
       "studyType": "B.S.",
       "startDate": "2020-01-13",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "courses": [ "ICS 111/ICS 211 (Java), ICS 141/ICS 241 (Discrete Mathematics), ICS 212 Program Stucture"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Aloha Smiles Dental",
+      "position": "Front Office/Insurance Coordinator",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "2020",
+      "highlights": [
+        "Perform front office/receptionist duties as needed",
+        "Work with insurance companies, tracing claims and EOBs"
+      ]
+    },
+    {
+      "company": "SM Receptionist",
+      "position": "Help Desk Consultant",
+      "website": "http://www.hawaii.edu/its/",
+      "startDate": "2018",
+      "endDate": "2019",
+      "highlights": [
+        "Manage the schedule and other duties as needed "
       ]
     }
   ]
