@@ -73,26 +73,5 @@
       "courses": [
       ]
     }
-  ],
-  "work": [
-    {
-      "company": "Aloha Smiles Dental",
-      "position": "Front Office/Insurance Coordinator",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "Assist in the front, receptionist duties, working with insurances, EOBs and claims",
-    },
-  "awards": [
-    {
-      "title": "Dean's List",
-      "date": "2018",
-      "awarder": "University of Hawaii at Manoa",
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
   ]
 }
