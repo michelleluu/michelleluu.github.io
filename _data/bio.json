@@ -86,14 +86,21 @@
       ]
     },
     {
-      "company": "SM Receptionist",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "SM",
+      "position": "Receptionist",
+      "website": "",
       "startDate": "2018",
       "endDate": "2019",
       "highlights": [
         "Manage the schedule and other duties as needed "
       ]
+    }
+  ],
+   "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2018",
+      "awarder": "University of Hawaii at Manoa",
     }
   ]
 }
