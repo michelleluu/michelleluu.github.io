@@ -18,7 +18,7 @@ When one thinks of coding standards, the usual reaction is annoyance. However, f
 >   
 >   (geekforgeeks.org)
 
-And this could not be more true. It makes just as much sense as to follow the syntax/grammatical structures of speaking languages. If they are not followed, they can not be understood and thus the sentence is not effectively communicated. Coding standards allow for us to do so for languages in the world of programming. 
+And this could not be more true. It makes just as much sense as to follow the syntax/grammatical structures of speaking languages. If they are not followed, they can not be understood and thus the sentence is not effectively communicated. Coding standards allow for us to do so for languages in the world of programming, and eventually you learn to code in compliance with the coding standards. 
 
 <img class="ui medium left floated rounded image" src="https://res.cloudinary.com/practicaldev/image/fetch/s--FQxU3AZj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1532898161/032f30a0-f2e1-11e5-8676-4676c2ca102a_canln7.png">
 
