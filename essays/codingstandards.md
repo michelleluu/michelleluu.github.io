@@ -21,3 +21,6 @@ When one thinks of coding standards, the usual reaction is annoyance. However, f
 And this could not be more true. It makes just as much sense as to follow the syntax/grammatical structures of speaking languages. If they are not followed, they can not be understood and thus the sentence is not effectively communicated. Coding standards allow for us to do so for languages in the world of programming. 
 
 <img style="float: left;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--FQxU3AZj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/http://res.cloudinary.com/lauragift/image/upload/v1532898161/032f30a0-f2e1-11e5-8676-4676c2ca102a_canln7.png">
+
+## Experiences with ESLint 
+I don't know about other students, but I love coding with ESLint and intelliJ. I tend to overlook a lot of small errors that would have taken me hours to find without something to look for it. ESLint not only shows the errors right where they are and right away, but if they are simple enough, you can have it be automatically corrected by the click of a few buttons. Gone are the days of searching through code for hours and hours on end, not knowing what you did wrong or what semicolon or curly bracket you've missed. For me, the green checkmarks that signify that my code follows the coding standards provides me a level of satisfaction I can't describe. 
