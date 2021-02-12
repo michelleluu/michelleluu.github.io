@@ -17,5 +17,5 @@ When one thinks of coding standards, the usual reaction is annoyance. However, f
 > * It improves readability, and maintainability of the code and it reduces complexity also.
 > * It helps in code reuse and helps to detect error easily.
 > * It promotes sound programming practices and increases efficiency of the programmers.
-> (geekforgeeks.org)
+>   (geekforgeeks.org)
 
