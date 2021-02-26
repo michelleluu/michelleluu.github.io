@@ -22,6 +22,7 @@ UI frameworks, such as Semantic UI, are wonderful resources for developing webpa
 
 ## My Experience with Semantic UI and html?CSS 
 
+
 <img class="ui medium right floated rounded image" src="https://embedwistia-a.akamaihd.net/deliveries/3a82c882c8a6d7d7525fc96d594d02d18f313517.webp?image_crop_resized=1280x720">
 
 As a computer science student, semantic UI has made life much more easier. As mentioned, all you really need to do is put things together and BAM you have a beautiful website. 
