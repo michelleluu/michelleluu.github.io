@@ -10,7 +10,7 @@ labels:
   - HTML/CSS
 ---
 ## What is a UI Framework? 
-The fastest way to understand what a UI framework does is to look at a website that was most likely coded with raw HTML/CSS. For example,
+The fastest way to understand what a UI framework does is to look at a website that was most likely coded with raw HTML/CSS. For example:
 
 <img class="ui centered image" src="https://takakusakari.files.wordpress.com/2012/09/bad-page1.jpg" width="500">
 
