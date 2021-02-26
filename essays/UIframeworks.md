@@ -20,11 +20,12 @@ Props to you if that's the look that you were going for, but for the majority, t
 
 UI frameworks, such as Semantic UI, are wonderful resources for developing webpages. Everything is there and laid out for the user. All they need to do is pick, modify and put together the code to suit their needs. In addition to the ease and seamlessness, coding with popular frameworks helps the user maintain proper coding standards and syntax that can be easily understood by both the user and those who need to read the code. All of this combined allows for the user to get their website and/or app up and running before their deadline. 
 
-## My Experience with Semantic UI and html?CSS 
+## My Experience with Semantic UI and HTML & CSS 
 
 
 <img class="ui medium right floated rounded image" src="https://embedwistia-a.akamaihd.net/deliveries/3a82c882c8a6d7d7525fc96d594d02d18f313517.webp?image_crop_resized=1280x720">
 As a computer science student, semantic UI has made life much more easier. As mentioned, all you really need to do is put things together and BAM you have a beautiful website. 
-It almost feels like... a puzzle? Or Maybe even a game? Combined with the fun aspect of designing a webpage that is aesthetically pleasing, seeing the fruits of your labor come into fruition (with a click of a button!), I can honestly say that this is probably my favorite class/part of class thus far. I'm sure most students will agree. The best part of using UI frameworks, especially Semantic UI, are the examples that are all laid out there for you. I don't know about others, but I tend to learn the best with visual examples. Though there is definitely a learning curve, I firmly believe that anyone could learn to code webpages/applications with Semantic UI or other popular frameworks of their choosing. If you have the example and code laid out there for you, it's easy to understand what does what without having to think about it too much. 
+It almost feels like... a puzzle? Or Maybe even a game? Combined with the fun aspect of designing a webpage that is aesthetically pleasing, seeing the fruits of your labor come into fruition (with a click of a button!), I can honestly say that this is probably my favorite class/part of class thus far. I'm sure most students will agree. The best part of using UI frameworks, especially Semantic UI, are the examples that are all laid out there for you. I don't know about others, but I tend to learn the best with visual examples. If you have the example and code laid out there for you, it's easy to understand what does what without having to think about it too much. Though there is definitely a learning curve, I firmly believe that anyone could learn to code webpages/applications with Semantic UI or other popular frameworks of their choosing. 
+
 
 
