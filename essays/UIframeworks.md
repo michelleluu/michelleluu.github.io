@@ -11,7 +11,7 @@ labels:
 ---
 ## What is a UI Framework? 
 The fastest way to understand what a UI framework does is looking at this website that was most likely coded with raw HTML/CSS:
-<img src="https://takakusakari.files.wordpress.com/2012/09/bad-page1.jpg">
+<img src="https://takakusakari.files.wordpress.com/2012/09/bad-page1.jpg" width="300px">
 Props to you if that's the look that you were going for, but for the majority, that's something to be avoided and UI framework provides the resources one needs to do so. 
 
 <img class="ui medium left floated rounded image" src="https://media.istockphoto.com/photos/laptop-coffee-book-on-wood-table-with-empty-screen-computer-picture-id1182610538?k=6&m=1182610538&s=170667a&w=0&h=XrwvxFDVooSGhDmTTWdp2b9bmMS1GWWZHAzdhJWX3Lg=">
